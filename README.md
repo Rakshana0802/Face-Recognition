@@ -1,2 +1,2 @@
-# Image-Recognition
-Image Recognition Project
+# Face-Recognition
+OpenCV based Face Recognition Project.
